@@ -10,3 +10,5 @@ Black
 Yellow
 Unicorn
 These are the colors of the rainbow and unicorn
+indigo
+wine
